@@ -1,4 +1,4 @@
-# 100_DSA
+# 100_CODES_CHALLENGE
 I HAVE STARTED A CHALLENGE OF COMPLETING 100 CODES
 ![image](https://github.com/user-attachments/assets/c2d491e0-171b-4f89-8dc3-e484999d5587)
 ![image](https://github.com/user-attachments/assets/265eccda-8de1-49d0-9785-165fc522eee8)
